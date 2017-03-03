@@ -1,4 +1,4 @@
-# HCDiskExplorer
+# HC Disk Explorer
 
 Utility for accessing ICE Felix HC2000 floppy disks. Suports BASIC and CP/M.
 
